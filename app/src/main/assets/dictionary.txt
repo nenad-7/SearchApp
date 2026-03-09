@@ -1,0 +1,10 @@
+здраво=hello
+куче=dog
+мачка=cat
+книга=book
+вода=water
+љубов=love
+училиште=school
+учител=teacher
+автомобил=car
+куќа=house
